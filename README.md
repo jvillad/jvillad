@@ -1,7 +1,7 @@
 ### Hi, I am John-Rey! 👋
 
 - 🙌 An aspiring Web Developer based in Sydney
-- 🌱 I'm currently learning JavaScript and CSharp
+- 🌱 I'm currently learning JavaScript, SQL and CSharp
 - 👾 Currently working on my portfolio website
 - 🐶 A bit of fun fact: We have 11 doggo.
 
