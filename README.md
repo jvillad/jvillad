@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi, I am John-Rey! 👋
+
+- 🙌 An aspiring Web Developer based in Sydney
+- 🌱 I'm currently learning JavaScript and CSharp
+- 👾 Currently working on my portfolio website
+- 🐶 A bit of fun fact: We have 11 doggo.
 
 <!--
-**jvillad/jvillad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jyvillad/jyvillad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
