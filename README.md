@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning JavaScript, SQL and CSharp
 - 👾 Currently working on my portfolio website
 - 🐶 A bit of fun fact: We have 11 doggo.
-
+- 🤞 Brain loading... Please wait...
 <!--
 **jyvillad/jyvillad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
