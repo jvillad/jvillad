@@ -1,8 +1,8 @@
 ### Hi, I am John-Rey! 👋
 
 - 🙌 An aspiring Web Developer based in Sydney
-- 🌱 I'm currently learning JavaScript, SQL and CSharp
-- 👾 Currently working on my portfolio website
+- 🌱 I'm currently learning React, Node, CSharp and .Net
+- 👾 Currently making React Apps to familiarise myself
 - 🐶 A bit of fun fact: We have 11 doggo.
 - 🤞 Brain loading... Please wait...
 <!--
