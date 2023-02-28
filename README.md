@@ -1,10 +1,10 @@
 ### Hi, I am John-Rey! 👋
 
-- 🙌 An aspiring Web Developer based in Sydney
-- 🌱 I'm currently learning Typescript, Node, and .Net
+- 🙌 An aspiring Software Developer based in Sydney
+- 🌱 I'm currently learning Typescript and ASP.Net Core 6 MVC
 - 👾 Currently making React Apps to familiarise myself
 - 🐶 A bit of fun fact: We have 11 doggo.
-- 🤞 Brain loading... Please wait...
+
 <!--
 **jyvillad/jyvillad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
