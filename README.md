@@ -1,7 +1,7 @@
 ### Hi, I am John-Rey! 👋
 
 - 🙌 An aspiring Software Developer based in Sydney
-- 🌱 I'm currently learning ASP.Net Core 6 MVC for 
+- 🌱 I'm currently learning ASP.Net Core 6/7
 - 👾 I like making web apps!
 - 🐶 A bit of fun fact: We have 11 doggo.
 
