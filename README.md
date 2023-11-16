@@ -1,9 +1,9 @@
-### Hi, I am John-Rey! 👋
+### Hi, I am John-Rey! 
 
 - 🙌 A Software Engineer based in Sydney
-- 🌱 I'm currently learning ASP.Net Core + Angular
-- 👾 I like making web apps!
-- 🐶 A bit of fun fact: We have 11 doggo.
+- 🌱 I'm currently learning .Net 8 
+- 👾 Like making web apps!
+- 🐶 Fun fact: We have 11 doggo.
 
 <!--
 **jyvillad/jyvillad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
