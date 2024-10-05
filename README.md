@@ -1,7 +1,6 @@
 ### Hi, I am John-Rey! 
 
 - 🙌 A Software Engineer based in Sydney
-- 🌱 I'm currently learning .Net 8 
 - 👾 Like making web apps!
 - 🐶 Fun fact: We have 11 doggo.
 
