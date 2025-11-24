@@ -1,6 +1,5 @@
 ### Hi, I am John-Rey! 
 
-- 🙌 A Software Engineer based in Sydney
 - 👾 Like making web apps!
 - 🐶 Fun fact: We have 11 doggo.
 
